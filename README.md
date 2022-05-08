@@ -1,8 +1,8 @@
 # Desafio08.TheWitcher
 
 Desafio 08 do curso Vai Na Web a fim de treinarmos o uso a propriedade background-image.<br>
-Foi bem desafiador entender como posicionar cada imagem no seu devido lugar.<br>
-Mas o resultado foi surpreendente!
+Foi realizado no VSCode e foi bem desafiador entender como posicionar cada imagem no seu devido lugar.<br>
+No VSCode funciona direitinho, mas aqui, não sei o que está acontecendo que quando abre a pag pelo link as duas imagens de fundo não aparecem!
 <h2> Linguagens utilizadas: </h2>
 
 <table>
