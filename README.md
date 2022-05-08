@@ -2,7 +2,7 @@
 
 Desafio 08 do curso Vai Na Web a fim de treinarmos o uso a propriedade background-image.<br>
 Foi realizado no VSCode e foi bem desafiador entender como posicionar cada imagem no seu devido lugar.<br>
-No VSCode funciona direitinho, mas aqui, não sei o que está acontecendo que quando abre a pag pelo link as duas imagens de fundo não aparecem!
+No VSCode funciona direitinho, mas aqui, eu não sei o que está acontecendo que quando abre pela GitHub Pages as duas imagens de fundo não aparecem!
 <h2> Linguagens utilizadas: </h2>
 
 <table>
