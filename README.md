@@ -1,6 +1,8 @@
 # Desafio08.TheWitcher
 
 Desafio 08 do curso Vai Na Web a fim de treinarmos o uso a propriedade background-image.<br>
+Foi bem desafiador entender como posicionar cada imagem no seu devido lugar.<br>
+Mas o resultado foi surpreendente!
 <h2> Linguagens utilizadas: </h2>
 
 <table>
